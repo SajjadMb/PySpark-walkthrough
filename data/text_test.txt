@@ -1,0 +1,4 @@
+hello
+second line
+last line
+bye
